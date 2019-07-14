@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" >
+    <title>Title</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        .detail{
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            overflow: auto;
+        }
+        .clearfix{
+            display: inline-block;
+        }
+        .clearfix:after{
+            content: "";
+            display: block;
+            clear: both;
+            visibility: hidden;
+        }
+        .detail-wrapper{
+            min-height: 100% ;
+        }
+        .detail-main{
+            min-height: 100%;
+            margin-top:64px;
+            padding-bottom: 64px;
+        }
+        .detail-close{
+            position: relative;
+            width: 32px;
+            height: 32px;
+            margin: -64px auto 0 auto;
+            font-size: 32px;
+        }
+    </style>
+</head>
+<body>
+    <div class="detail">
+        <div class="detail-wrapper clearfix">
+            <div class="detail-main">
+                <li>测试</li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </div>
+        </div>
+        <div class="detail-close">
+            <i>
+                1
+            </i>
+        </div>
+    </div>
+</body>
+</html>
