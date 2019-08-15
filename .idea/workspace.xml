@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" beforeDir="false" afterPath="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,10 +18,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html">
+        <entry file="file://$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+            <state relative-caret-position="304">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#5;n#ul#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/屏幕适配/init.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -30,8 +57,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="Sass File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,6 +91,9 @@
         <option value="$PROJECT_DIR$/ES6/运算符使用.html" />
         <option value="$PROJECT_DIR$/ES6/reduce的使用.html" />
         <option value="$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html" />
+        <option value="$PROJECT_DIR$/屏幕适配/flexible.sass" />
+        <option value="$PROJECT_DIR$/屏幕适配/init.css" />
+        <option value="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" />
       </list>
     </option>
   </component>
@@ -87,13 +118,7 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题" type="462c0819:PsiDirectoryNode" />
-              <item name="小运算" type="462c0819:PsiDirectoryNode" />
+              <item name="屏幕适配" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,7 +130,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/面试题/小运算" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/项目总结" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -155,7 +180,10 @@
       <workItem from="1563291492731" duration="2927000" />
       <workItem from="1563368604569" duration="244000" />
       <workItem from="1563369079416" duration="1531000" />
-      <workItem from="1563371116340" duration="1654000" />
+      <workItem from="1563371116340" duration="1730000" />
+      <workItem from="1563462475690" duration="196000" />
+      <workItem from="1565529187670" duration="7303000" />
+      <workItem from="1565624684250" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="我的添加">
       <created>1563117973859</created>
@@ -171,11 +199,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563119985342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20个水瓶问题">
+      <created>1563372797974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563372797974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="屏幕适配方案一">
+      <created>1565537767988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565537767988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22931000" />
+    <option name="totallyTimeSpent" value="32752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,9 +230,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1391671" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1391671" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,7 +243,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.6770509" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -225,7 +266,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="我的添加" />
     <MESSAGE value="js中利用reduse分组" />
-    <option name="LAST_COMMIT_MESSAGE" value="js中利用reduse分组" />
+    <MESSAGE value="20个水瓶问题" />
+    <MESSAGE value="屏幕适配方案一" />
+    <option name="LAST_COMMIT_MESSAGE" value="屏幕适配方案一" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/element-video/sticky-footers.css" />
@@ -306,8 +349,41 @@
     <entry file="file://$PROJECT_DIR$/面试题/小运算/范德萨发放 .html" />
     <entry file="file://$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        <state relative-caret-position="209">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#149#442#0" />
+            <element signature="e#487#1089#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#5;n#ul#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/屏幕适配/init.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
