@@ -88,7 +88,50 @@
          console.log('reject>>>>>>>>>>>>>>');
          console.log(reason);
      })
+    /*
+    * promise中catch的用法
+    * */
+    getNumber().then(function (data) {
+        setTimeout(function () {
+            console.log('捕获错误');
 
+        },3000);
+    }).catch(function (reason) {
+        console.log('错误的原因:reason'+`${reason}`);
+    })
+
+    /*
+    * all的用法 与之相反的是race
+    * */
+   function run1(){
+       return new Promise(function (resolve,reject) {
+           setTimeout(function () {
+               console.log("一起输出1");
+               resolve();
+           },3000);
+       });
+   }
+   function run2() {
+       return new Promise(function (resolve,reject) {
+           setTimeout(function () {
+               console.log("一起输出2");
+               resolve();
+           },6000);
+       });
+   }
+    function run3() {
+        return new Promise(function (resolve,reject) {
+            setTimeout(function () {
+                console.log("一起输出3");
+                resolve();
+            },4000);
+
+        });
+    }
+
+    Promise.all([run1(),run2(),run3()]).then(function (results) {
+        console.log("全部执行完毕");
+    });
 
 </script>
 </html>

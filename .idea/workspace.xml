@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ES6/js异步处理/promise.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES6/js异步处理/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/ES6/js异步处理/promise.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+            <state relative-caret-position="173">
+              <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -81,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +168,10 @@
       <workItem from="1565880410514" duration="452000" />
       <workItem from="1565883666920" duration="381000" />
       <workItem from="1565884084466" duration="1830000" />
-      <workItem from="1565885936332" duration="580000" />
+      <workItem from="1565885936332" duration="833000" />
+      <workItem from="1565996081317" duration="2147000" />
+      <workItem from="1565998311656" duration="1214000" />
+      <workItem from="1566000143985" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="我的添加">
       <created>1563117973859</created>
@@ -205,11 +208,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565880478817</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="异步">
+      <created>1565886769080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565886769080</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35995000" />
+    <option name="totallyTimeSpent" value="39792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,7 +272,8 @@
     <MESSAGE value="20个水瓶问题" />
     <MESSAGE value="屏幕适配方案一" />
     <MESSAGE value="项目的总结" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目的总结" />
+    <MESSAGE value="异步" />
+    <option name="LAST_COMMIT_MESSAGE" value="异步" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/element-video/sticky-footers.css" />
@@ -393,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+        <state relative-caret-position="173">
+          <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
         </state>
       </provider>
     </entry>
