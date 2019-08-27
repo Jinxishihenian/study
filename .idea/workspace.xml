@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ES7/async.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES6/js异步处理/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/ES6/js异步处理/promise.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ES7/async.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+            <state relative-caret-position="266">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="10" selection-end-line="37" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -68,12 +87,15 @@
         <option value="$PROJECT_DIR$/屏幕适配/init.css" />
         <option value="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" />
         <option value="$PROJECT_DIR$/ES6/js异步处理/promise.html" />
+        <option value="$PROJECT_DIR$/ES7/async.html" />
+        <option value="$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="952" />
-    <option name="height" value="1078" />
+    <option name="y" value="-1" />
+    <option name="width" value="960" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,13 +114,7 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="ES6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="ES6" type="462c0819:PsiDirectoryNode" />
-              <item name="js异步处理" type="462c0819:PsiDirectoryNode" />
+              <item name="视频笔记" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,7 +136,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -171,7 +187,10 @@
       <workItem from="1565885936332" duration="833000" />
       <workItem from="1565996081317" duration="2147000" />
       <workItem from="1565998311656" duration="1214000" />
-      <workItem from="1566000143985" duration="183000" />
+      <workItem from="1566000143985" duration="1978000" />
+      <workItem from="1566621031542" duration="630000" />
+      <workItem from="1566913987691" duration="1585000" />
+      <workItem from="1566915806613" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary="我的添加">
       <created>1563117973859</created>
@@ -215,11 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565886769080</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="关于异步promise的总结">
+      <created>1566000440931</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566000440931</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39792000" />
+    <option name="totallyTimeSpent" value="45575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,7 +299,8 @@
     <MESSAGE value="屏幕适配方案一" />
     <MESSAGE value="项目的总结" />
     <MESSAGE value="异步" />
-    <option name="LAST_COMMIT_MESSAGE" value="异步" />
+    <MESSAGE value="关于异步promise的总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="关于异步promise的总结" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/element-video/sticky-footers.css" />
@@ -363,13 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/项目总结/项目总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -404,8 +424,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+        <state relative-caret-position="249">
+          <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES7/async.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="10" selection-end-line="37" selection-end-column="65" />
         </state>
       </provider>
     </entry>
