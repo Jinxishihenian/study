@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/手写Promise/promise(实例).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/手写Promise/promise(手写).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/手写Promise/promise(手写简洁版).html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/手写Promise/promise(手写).html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,17 +30,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="2090">
               <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/手写Promise/promise(手写).html">
+        <entry file="file://$PROJECT_DIR$/手写Promise/promise(手写简洁版).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="760">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -269,6 +269,7 @@
       <workItem from="1567325475067" duration="846000" />
       <workItem from="1570537497597" duration="6000" />
       <workItem from="1570537552599" duration="5460000" />
+      <workItem from="1570596570506" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="我的添加">
       <created>1563117973859</created>
@@ -333,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567305829725</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="手写promise">
+      <created>1570596593847</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570596593847</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53935000" />
+    <option name="totallyTimeSpent" value="55769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,7 +360,7 @@
     <frame x="0" y="-1" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1402214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1402214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -368,7 +376,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.45794392" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.6770509" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.09968847" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.10488058" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.3298647" />
@@ -405,7 +413,8 @@
     <MESSAGE value="关于异步promise的总结" />
     <MESSAGE value="增加时间格式的转换" />
     <MESSAGE value="获取请求参数" />
-    <option name="LAST_COMMIT_MESSAGE" value="获取请求参数" />
+    <MESSAGE value="手写promise" />
+    <option name="LAST_COMMIT_MESSAGE" value="手写promise" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/element-video/sticky-footers.css" />
@@ -519,6 +528,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dart_test/dart.dart" />
+    <entry file="file://$PROJECT_DIR$/ES7/async.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/手写Promise/promise(实例).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -540,31 +570,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/手写Promise/promise(实例).html">
+    <entry file="file://$PROJECT_DIR$/手写Promise/promise(手写简洁版).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES7/async.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="110" column="19" lean-forward="true" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/手写Promise/promise(手写).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="760">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
