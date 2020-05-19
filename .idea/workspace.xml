@@ -1,66 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/typejs/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typejs/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/element-video/sticky-footers.html" beforeDir="false" afterPath="$PROJECT_DIR$/element_video/sticky-footers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaScript/ES6/js异步处理/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES6/js异步处理/promise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaScript/ES6/reduce的使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES6/reduce的使用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaScript/ES6/运算符使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES6/运算符使用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaScript/ES7/async.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES7/async.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue原理/双向绑定2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_theory/双向绑定2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue原理/双向绑定原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_theory/双向绑定原理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣/最长回文.html" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/最长回文.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕适配/flexible.sass" beforeDir="false" afterPath="$PROJECT_DIR$/screen_util/flexible.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" beforeDir="false" afterPath="$PROJECT_DIR$/screen_util/flexible方案适配(经典方案).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕适配/init.css" beforeDir="false" afterPath="$PROJECT_DIR$/screen_util/init.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/手写Promise/promise(实例).html" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promise(实例).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/手写Promise/promise(手写简洁版).html" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promise(手写简洁版).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式/正则表达式.html" beforeDir="false" afterPath="$PROJECT_DIR$/regexp/正则表达式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/视频笔记/切割url请求参数.html" beforeDir="false" afterPath="$PROJECT_DIR$/voideo_note/切割url请求参数.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html" beforeDir="false" afterPath="$PROJECT_DIR$/voideo_note/利用正则表达式进行时间戳与日期格式的转换.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/mian_shi.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview_question/mian_shi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview_question/小运算/20个水瓶子的问题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/项目总结/项目总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/summarize/项目总结.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DartProblemsView" scoped-analysis-mode="DartPackage" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/手写Promise/promise(手写简洁版).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/力扣/最长回文.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣/2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2413">
-              <caret line="127" selection-start-line="127" selection-end-line="127" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/手写Promise/promise(实例).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -83,81 +56,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/element-video/sticky-footers.css" />
-        <option value="$PROJECT_DIR$/element-video/sticky-footers.html" />
-        <option value="$PROJECT_DIR$/力扣/2.html" />
-        <option value="$PROJECT_DIR$/../新建文件夹 1/tea/public/function.html" />
-        <option value="$PROJECT_DIR$/function.css" />
-        <option value="$PROJECT_DIR$/function.html" />
-        <option value="$PROJECT_DIR$/../新建文件夹/茶道/function.html" />
-        <option value="$PROJECT_DIR$/../新建文件夹/茶道/aboutus.html" />
-        <option value="$PROJECT_DIR$/../新建文件夹/茶道/method.html" />
-        <option value="$PROJECT_DIR$/../新建文件夹/茶道/index.html" />
-        <option value="$PROJECT_DIR$/面试题/mian_shi.html" />
-        <option value="$PROJECT_DIR$/vue原理/双向绑定原理.html" />
-        <option value="$PROJECT_DIR$/vue原理/双向绑定2.html" />
-        <option value="$PROJECT_DIR$/ES6/..运算符使用.html" />
-        <option value="$PROJECT_DIR$/ES6/运算符使用.html" />
-        <option value="$PROJECT_DIR$/ES6/reduce的使用.html" />
-        <option value="$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html" />
-        <option value="$PROJECT_DIR$/屏幕适配/flexible.sass" />
-        <option value="$PROJECT_DIR$/屏幕适配/init.css" />
-        <option value="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" />
-        <option value="$PROJECT_DIR$/ES6/js异步处理/promise.html" />
-        <option value="$PROJECT_DIR$/ES7/async.html" />
-        <option value="$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html" />
-        <option value="$PROJECT_DIR$/视频笔记/切割url请求参数.html" />
-        <option value="$PROJECT_DIR$/dart_test/dart.js" />
-        <option value="$PROJECT_DIR$/dart_test/dart.dart" />
-        <option value="$PROJECT_DIR$/手写Promise/promise.html" />
-        <option value="$PROJECT_DIR$/手写Promise/promise(实例).html" />
-        <option value="$PROJECT_DIR$/手写Promise/promise(手写).html" />
-        <option value="$PROJECT_DIR$/dd.html" />
-        <option value="$PROJECT_DIR$/力扣/最长回文.html" />
-      </list>
-    </option>
-  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="824" />
-    <option name="width" value="960" />
-    <option name="height" value="1080" />
-  </component>
+  <component name="ProjectId" id="1br1Eit8NLP6Jb6Tr7QTBxdOQJU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flutter_dmeo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react_test/my-app" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -175,18 +91,6 @@
       <recent name="$PROJECT_DIR$/项目总结" />
       <recent name="$PROJECT_DIR$/面试题/小运算" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -236,6 +140,8 @@
       <workItem from="1572446198550" duration="458000" />
       <workItem from="1572875181922" duration="2161000" />
       <workItem from="1574522656300" duration="243000" />
+      <workItem from="1589375290779" duration="12000" />
+      <workItem from="1589375444320" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="我的添加">
       <created>1563117973859</created>
@@ -317,9 +223,6 @@
     <option name="localTasksCounter" value="12" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59864000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -329,42 +232,8 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1082" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21085925" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="Resources Explorer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.45794392" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.6770509" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5109034" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.3298647" />
-      <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Flutter Inspector" order="4" />
-      <window_info anchor="right" id="Flutter Outline" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -389,175 +258,10 @@
     <MESSAGE value="手写promise" />
     <option name="LAST_COMMIT_MESSAGE" value="手写promise" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/element-video/sticky-footers.css" />
-    <entry file="file://$PROJECT_DIR$/element-video/sticky-footers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/css/index.css" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹 1/tea/public/method.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹 1/tea/public/css/function.css" />
-    <entry file="file://$PROJECT_DIR$/function.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹 1/tea/public/function.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/footer.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/header.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/index.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/method.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/测试.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/aboutus.html" />
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/茶道/function.html" />
-    <entry file="file://$PROJECT_DIR$/面试题/mian_shi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue原理/双向绑定原理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES6/reduce的使用.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES6/运算符使用.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue原理/双向绑定2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试题/小运算/范德萨发放 .html" />
-    <entry file="file://$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-          <folding>
-            <element signature="e#149#442#0" />
-            <element signature="e#487#1089#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/项目总结/项目总结.md" />
-    <entry file="file://$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#5;n#ul#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/屏幕适配/init.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dart_test/dart.dart" />
-    <entry file="file://$PROJECT_DIR$/ES7/async.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/屏幕适配/flexible.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/视频笔记/切割url请求参数.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/手写Promise/仿写.html" />
-    <entry file="file://$PROJECT_DIR$/dd.html" />
-    <entry file="file://$PROJECT_DIR$/手写Promise/promise(手写简洁版).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES6/js异步处理/promise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2413">
-          <caret line="127" selection-start-line="127" selection-end-line="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/手写Promise/promise(实例).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣/最长回文.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589377467111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589377467111" />
   </component>
 </project>
