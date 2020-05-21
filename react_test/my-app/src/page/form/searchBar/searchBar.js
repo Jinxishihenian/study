@@ -5,9 +5,10 @@ class SearchBar extends Component {
         super(props);
     }
     render() {
+        const {callBack} = this.props;
         return (
             <div className="search-bar">
-                <input type="text"/>
+                <input type="text" onChange={callBack}/>
             </div>
         );
     }
