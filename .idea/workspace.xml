@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/typejs/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typejs/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/element-video/sticky-footers.html" beforeDir="false" afterPath="$PROJECT_DIR$/element_video/sticky-footers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaScript/ES6/js异步处理/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES6/js异步处理/promise.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaScript/ES6/reduce的使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES6/reduce的使用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaScript/ES6/运算符使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES6/运算符使用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaScript/ES7/async.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/ES7/async.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue原理/双向绑定2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_theory/双向绑定2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue原理/双向绑定原理.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_theory/双向绑定原理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/力扣/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/力扣/最长回文.html" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/最长回文.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/屏幕适配/flexible.sass" beforeDir="false" afterPath="$PROJECT_DIR$/screen_util/flexible.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/屏幕适配/flexible方案适配(经典方案).html" beforeDir="false" afterPath="$PROJECT_DIR$/screen_util/flexible方案适配(经典方案).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/屏幕适配/init.css" beforeDir="false" afterPath="$PROJECT_DIR$/screen_util/init.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/手写Promise/promise(实例).html" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promise(实例).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/手写Promise/promise(手写简洁版).html" beforeDir="false" afterPath="$PROJECT_DIR$/promise/promise(手写简洁版).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式/正则表达式.html" beforeDir="false" afterPath="$PROJECT_DIR$/regexp/正则表达式.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/视频笔记/切割url请求参数.html" beforeDir="false" afterPath="$PROJECT_DIR$/voideo_note/切割url请求参数.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/视频笔记/利用正则表达式进行时间戳与日期格式的转换.html" beforeDir="false" afterPath="$PROJECT_DIR$/voideo_note/利用正则表达式进行时间戳与日期格式的转换.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/mian_shi.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview_question/mian_shi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题/小运算/20个水瓶子的问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview_question/小运算/20个水瓶子的问题.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目总结/项目总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/summarize/项目总结.md" afterDir="false" />
-    </list>
+    <list default="true" id="670c4e24-cf82-4f70-8c19-60f947db4d48" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,10 +44,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/react_test/my-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -85,6 +60,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,6 +68,7 @@
       <recent name="$PROJECT_DIR$/面试题/小运算" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,6 +119,7 @@
       <workItem from="1574522656300" duration="243000" />
       <workItem from="1589375290779" duration="12000" />
       <workItem from="1589375444320" duration="1219000" />
+      <workItem from="1609995049868" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="我的添加">
       <created>1563117973859</created>
@@ -233,7 +211,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
