@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;EAGG;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;ACAZ,IAAK;EACH,WAAW,EAAE,qBAAqB;EAClC,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,GAAG;EACV,gBAAgB,ECRT,OAAO",
+"sources": ["reset.scss","import-scss.scss","_partials-test.scss"],
+"names": [],
+"file": "import-scss.css"
+}

@@ -1,0 +1,13 @@
+/// @import 指令.
+@import "reset";
+/// 导入时不用加下划线.
+@import "partials-test";
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: red;
+  background-color: $myPink;
+}
+
+

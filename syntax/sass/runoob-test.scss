@@ -1,10 +1,11 @@
 /// 定义变量与值.
+/// 变量使用$定义.
 $bgcolor: lightblue;
 $textcolor: darkblue;
 $fontsize: 18px;
 //使用变量.
 body {
   background-color: $bgcolor;
-  color: $fontsize;
+  color: $textcolor;
   font-size: $fontsize;
 }

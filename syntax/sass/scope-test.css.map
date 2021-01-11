@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,EAAG;EAED,KAAK,EADK,KAAK;;AAIjB,CAAE;EACA,KAAK,EAPG,GAAG;;AAWb,EAAG;EAED,KAAK,EADK,KAAK;;AAIjB,CAAE;EACA,KAAK,EALK,KAAK",
+"sources": ["scope-test.scss"],
+"names": [],
+"file": "scope-test.css"
+}
