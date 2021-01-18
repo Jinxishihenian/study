@@ -1,0 +1,22 @@
+/// sass 混入.
+@mixin import-text {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid blue;
+}
+
+selector {
+  @include import-text
+}
+
+.danger {
+  @include import-text;
+  background-color: green;
+}
+
+/// sass 中混入包含混入.
+@mixin special-text {
+  @include import-text;
+}
+
